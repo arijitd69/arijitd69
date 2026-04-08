@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Arijit%20Dutta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Learner%20|%20Developer%20|%20Gamer&descAlignY=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Arijit%20Dutta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Learner%20|%20Developer%20|&descAlignY=60">
 </div>
 
 <div align="center">
@@ -49,22 +49,6 @@ B.K Enterprise-(Programmer Analyst)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitd69&theme=dark&hide_border=true" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api?username=arijitd69&show_icons=true&theme=dark" width="45%"/>
 </div>
-
----
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/arijitd69/arijitd69/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/arijitd69/arijitd69/output/github-contribution-grid-snake.svg" />
-    <img 
-      src="https://raw.githubusercontent.com/arijitd69/arijitd69/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
 ---
 
