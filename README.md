@@ -47,7 +47,6 @@ B.K Enterprise-(Programmer Analyst)
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijitd69&theme=dark&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arijitd69&show_icons=true&theme=dark" width="45%"/>
 </div>
 
 ---
