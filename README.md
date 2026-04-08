@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Arijit%20Homo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Learner%20|%20Developer%20|%20Gamer&descAlignY=60">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Arijit%20Dutta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Learner%20|%20Developer%20|%20Gamer&descAlignY=60">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=I'm+a+Cybersecurity+Learner;I'm+a+Gamer;I'm+a+Software+Developer;I'm+into+Ethical+Hacking">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=I'm+a+Backend+Learner;I'm+a+Software+Developer;I'm+into+Development";>
 </div>
 
 ---
